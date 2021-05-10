@@ -6,10 +6,9 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/kassiopea-coder/java-hw12-KeyValidator/issues/1
-* https://github.com/kassiopea-coder/java-hw12-KeyValidator/issues/2
-* https://github.com/kassiopea-coder/java-hw12-KeyValidator/issues/3
-* https://github.com/kassiopea-coder/java-hw12-KeyValidator/issues/4
+* [Результат проверки на валидацию не соответствует требованиям Руководства использования ](https://github.com/kassiopea-coder/java-hw12-KeyValidator/issues/1)
+* [В результате тестирования ключ невалидный , в руководстве использования указан валидным](https://github.com/kassiopea-coder/java-hw12-KeyValidator/issues/2)
+* [В результате тестирования ключ валидный , в руководстве указан как невалидный](https://github.com/kassiopea-coder/java-hw12-KeyValidator/issues/4)
 
 ## Описание процесса тестирования
 
