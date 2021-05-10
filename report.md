@@ -7,8 +7,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/kassiopea-coder/java-hw12-KeyValidator/issues/1
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* https://github.com/kassiopea-coder/java-hw12-KeyValidator/issues/2
+* https://github.com/kassiopea-coder/java-hw12-KeyValidator/issues/3
+* https://github.com/kassiopea-coder/java-hw12-KeyValidator/issues/4
 
 ## Описание процесса тестирования
 
